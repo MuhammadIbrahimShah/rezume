@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+
+    width: 100%;
+    height: 100%;
+}
+
+.name{
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+}
+
+.header{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    line-height: 1.75rem;
+    gap: 20px;
+
+}
+.header a{
+
+    color: #3B82F6;
+    text-decoration: none;
+
+
+}
+
+.line{
+
+    color: #000000;
+    margin: 0px 5px;
+    font-size: 20px;
+   
+}
+.skill{
+
+    display: flex;
+    margin-left: 220px;
+    align-items: center;
+    margin-top: 25px;
+    gap: 10px;
+    font-size: 10px;
+}
+
+.hr-line{
+
+    width: 75%;
+}
+
+.skill_items ul{
+
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 20px;
+    gap: 10px;
+    font-size: 18px;
+}
+
+#dot{
+
+    list-style: none;
+}
+
+.separator{
+
+    font-size: 20px;
+}
+
+.projects{
+
+    display: flex;
+    margin-left: 210px;
+    align-items: center;
+    margin-top: 25px;
+    gap: 10px;
+    font-size: 10px;
+}
+.hr-2line{
+
+    width: 73.5%;
+}
+
+.project_1_header{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 230px
+}
+.project_1 ul{
+
+    margin-top: 10px;
+    margin-left: 235px;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+.project_2_header{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 230px
+
+}
+.project_2 ul{
+
+    margin-top: 10px;
+    margin-left: 235px;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+.project_3_header{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 230px
+
+}
+
+.project_3 ul{
+
+    margin-top: 10px;
+    margin-left: 235px;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+/*   -------------- education --------------*/
+
+.Education{
+    display: flex;
+    margin-left: 210px;
+    align-items: center;
+    margin-top: 25px;
+    gap: 10px;
+    font-size: 10px;
+}
+.education_inner1{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 230px
+}
+
+.education_inner ul{
+
+    margin-top: 10px;
+    margin-left: 235px;
+    line-height: 1.5;
+    font-size: 16px;
+}
